@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Gemini Studio",
+  "description": "A premium sandbox and interactive developer playground to chat, explore structured JSON outputs, and manage custom system instructions with Gemini 3.5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

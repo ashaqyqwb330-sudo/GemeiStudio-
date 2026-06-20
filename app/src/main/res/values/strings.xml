@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نبض الموعد</string>
+    <string name="alarm_created">تم ضبط الموعد بنجاح!</string>
+    <string name="morning_quote">"من لم يستقبل صباحه بقلب يقظ، ضاع عليه يومه."</string>
+</resources>
